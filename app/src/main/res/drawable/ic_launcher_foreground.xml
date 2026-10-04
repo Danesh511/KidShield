@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Shield Left Half -->
+    <path
+        android:fillColor="#00A2FF"
+        android:pathData="M 54,20 L 28,26 C 28,60 44,80 54,92 Z" />
+
+    <!-- Shield Right Half -->
+    <path
+        android:fillColor="#00358C"
+        android:pathData="M 54,20 L 80,26 C 80,60 64,80 54,92 Z" />
+
+    <!-- Kid Face (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 47,46 m -8,0 a 8,8 0 1,0 16,0 a 8,8 0 1,0 -16,0" />
+        
+    <!-- Kid Hair styling -->
+    <path
+        android:fillColor="#00358C"
+        android:pathData="M 45,41 C 47,43 51,43 53,39 C 48,39 46,40 45,41 Z" />
+
+    <!-- Kid Body (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 47,56 C 37,56 37,70 37,70 C 42,75 50,68 54,62 Z" />
+
+    <!-- Protective Hand (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 43,84 C 52,84 60,75 68,62 C 72,56 75,52 77,50 L 73,46 C 70,52 65,60 59,66 C 52,74 46,78 40,78 C 36,78 35,84 43,84 Z" />
+
+    <!-- Lock Icon Body (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 64,30 L 74,30 C 76,30 76,32 76,34 L 76,42 C 76,44 74,44 74,44 L 64,44 C 62,44 62,42 62,42 L 62,34 C 62,32 64,30 64,30 Z" />
+
+    <!-- Lock Icon Shackle -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:pathData="M 65,30 L 65,26 C 65,22 73,22 73,26 L 73,30" />
+
+    <!-- Lock Keyhole -->
+    <path
+        android:fillColor="#00358C"
+        android:pathData="M 69,35 m -1.5,0 a 1.5,1.5 0 1,0 3,0 a 1.5,1.5 0 1,0 -3,0 M 68,36 L 70,36 L 69.5,39 L 68.5,39 Z" />
+
+</vector>
